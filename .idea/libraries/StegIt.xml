@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="StegIt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-steganography-master/StegIt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

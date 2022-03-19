@@ -1,0 +1,6 @@
+*.class
+encoded.*
+secret*
+.DS_Store
+info
+text
